@@ -52,11 +52,11 @@
 
 <div align="center">
   
-  ![Kouakep's GitHub stats](https://github-readme-stats.vercel.app/api?username=kouakep-dominique&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  ![Kouakep's GitHub stats](https://github-readme-stats.vercel.app/api?username=DominiqueDaquin&show_icons=true&theme=radical&hide_border=true&count_private=true)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kouakep-dominique&layout=compact&theme=radical&hide_border=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DominiqueDaquin&layout=compact&theme=radical&hide_border=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kouakep-dominique&theme=radical&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DominiqueDaquin&theme=radical&hide_border=true)
 
 </div>
 
@@ -66,9 +66,9 @@
 
 <div align="center">
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kouakep-dominique&repo=awesome-project&theme=radical&hide_border=true)](https://github.com/kouakep-dominique/awesome-project)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DominiqueDaquin&repo=awesome-project&theme=radical&hide_border=true)](https://github.com/DominiqueDaquin/bayisimmob)
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kouakep-dominique&repo=another-cool-project&theme=radical&hide_border=true)](https://github.com/kouakep-dominique/another-cool-project)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DominiqueDaquin&repo=another-cool-project&theme=radical&hide_border=true)](https://github.com/DominiqueDaquin/another-cool-project)
 
 </div>
 
