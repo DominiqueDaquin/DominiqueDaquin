@@ -9,10 +9,10 @@
 ## 🌍 À propos | About Me
 
 **🇫🇷 Français:**
-> Développeur Fullstack passionné par la création d'applications web et mobiles modernes ! J'adore transformer des idées en produits numériques fonctionnels et élégants. Quand je ne code pas, je suis probablement en train de découvrir une nouvelle technologie ou de boire un café ☕
+> Développeur Fullstack passionné par la création d'applications web et mobiles modernes ! J'adore transformer des idées en produits numériques fonctionnels et élégants. Quand je ne code pas, je suis probablement en train de découvrir une nouvelle technologie ou de jouer aux échecs ☕
 
 **🇬🇧 English:**
-> Fullstack Developer passionate about creating modern web and mobile applications! I love turning ideas into functional and elegant digital products. When I'm not coding, I'm probably exploring a new technology or having coffee ☕
+> Fullstack Developer passionate about creating modern web and mobile applications! I love turning ideas into functional and elegant digital products. When I'm not coding, I'm probably exploring a new technology or playing chess ☕
 
 ---
 
